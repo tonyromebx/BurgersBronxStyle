@@ -1,0 +1,29 @@
+body, html {
+    background-image: url("https://ssl.tzoo-img.com/images/tzoo.hd.15534.5364.hotel-mela.jpg?width=1106");
+    background-size: cover;
+
+}
+
+img {
+    max-height: 300px;
+}
+
+.title {
+    
+    font-family: 'Arial;', cursive;
+}
+
+
+#header {
+    margin-bottom: 1.5em;
+}
+
+.hero.is-danger {
+	background-color: #000;
+
+}
+
+.button.is-danger {
+	background-color: #000;
+
+}
